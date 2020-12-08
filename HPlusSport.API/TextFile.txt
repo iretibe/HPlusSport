@@ -1,0 +1,1 @@
+﻿https://localhost:44376/api/products/GetAllProducts
